@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Surya-17
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me, Twitter - Surya_Karthik17 and Linkedin - https://www.linkedin.com/in/surya-kartheek/
+I’m a Data Engineer with experience building scalable ETL pipelines and data platforms across cloud environments. I specialize in data ingestion, transformation, and modeling using Python, SQL, Spark, and cloud services such as AWS and GCP.
+
+At Capgemini, I worked on large-scale data pipelines using AWS Glue and PySpark to process energy consumption data for 30,000+ customers and support analytics workloads in Redshift and Snowflake. I’ve also built batch and streaming pipelines, implemented dimensional models and SCD Type 2 logic, and optimized data workflows for reliability and performance.
 
 <!---
 Surya-17/Surya-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
