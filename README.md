@@ -18,11 +18,9 @@
 ## 🧠 About Me
 
 > **AI Engineer** with **2 years of experience** building production-grade LLM applications, RAG pipelines, and agentic workflows — focused on making AI systems that are not just impressive in demos, but **reliable, measurable, and practical for users**.
-
 - 🤖 I build **end-to-end AI pipelines** from data ingestion to LLM evaluation and deployment
 - 🔬 I believe in **measuring everything** — if you can't evaluate it, you can't improve it
 - 🧩 Currently exploring **multi-agent systems**, **LLM-as-Judge**, and **structured output engineering**
-- 🎥 I create content on **YouTube**, **Medium**, and **Instagram** about AI engineering, LLMs, and building smart systems
 - ☁️ I enjoy turning complex AI research into **clean, scalable backend services**
 
 ---
@@ -86,40 +84,8 @@
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Surya-17)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@suryakartheek)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/surya_kartheek/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-kartheek/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya-17)
-
-</div>
-
----
-
-<!-- SECTION E: GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Surya-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" alt="Surya's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surya-17&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- SECTION F: GitHub Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Surya-17&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -136,9 +102,6 @@ I'm always open to discussing **AI engineering**, **LLM systems**, **RAG archite
 |----------|------|
 | 💼 LinkedIn | [linkedin.com/in/surya-kartheek](https://www.linkedin.com/in/surya-kartheek/) |
 | 🐙 GitHub | [github.com/Surya-17](https://github.com/Surya-17) |
-| 📝 Medium | [medium.com/@suryakartheek](https://medium.com/@suryakartheek) |
-| 🎥 YouTube | [youtube.com/@Surya-17](https://www.youtube.com/@Surya-17) |
-| 📸 Instagram | [instagram.com/surya_kartheek](https://www.instagram.com/surya_kartheek/) |
 
 <br/>
 
