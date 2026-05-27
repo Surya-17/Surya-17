@@ -1,8 +1,4 @@
-I’m a Data Engineer with experience building scalable ETL pipelines and data platforms across cloud environments. I specialize in data ingestion, transformation, and modeling using Python, SQL, Spark, and cloud services such as AWS and GCP.
-
-At Capgemini, I worked on large-scale data pipelines using AWS Glue and PySpark to process energy consumption data for 30,000+ customers and support analytics workloads in Redshift and Snowflake. I’ve also built batch and streaming pipelines, implemented dimensional models and SCD Type 2 logic, and optimized data workflows for reliability and performance.
-
-<!---
-Surya-17/Surya-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an AI Engineer with experience building machine learning pipelines, LLM-powered applications, and production-oriented AI workflows. My work focuses on turning unstructured data into useful, reliable systems through NLP, RAG, prompt engineering, model evaluation, API development, and MLOps practices.
+At Capgemini, I worked as an ML Engineer building Python-based ML and NLP pipelines for text classification, prediction workflows, and internal automation use cases. I developed data preprocessing, feature engineering, model training, validation, and API integration workflows using Python, SQL, scikit-learn, XGBoost, spaCy, BERT embeddings, Flask, Docker, Git, and MLflow.
+More recently, my work has focused on modern AI engineering: building RAG-based document QA systems, LangGraph-style agent workflows, structured LLM outputs, evaluation pipelines, guardrails, and human-in-the-loop review systems. I’ve worked with tools and concepts such as OpenAI APIs, vector search, embeddings, Pinecone, DeepEval, MongoDB, Redis, React, and cloud-based deployment practices.
+I’m especially interested in roles involving Generative AI, AI agents, conversational AI, document intelligence, LLM evaluation, AI automation, and backend systems that make AI useful in real business workflows. My goal is to build AI systems that are not just impressive in demos, but reliable, measurable, and practical for users.
